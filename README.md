@@ -1,2 +1,5 @@
-# Asatube
-Youtube clone with reactjs
+# Morypay
+Small experience with 
+- Vite
+- Typescript
+- Tailwindcss
